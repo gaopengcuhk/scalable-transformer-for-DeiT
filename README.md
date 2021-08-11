@@ -1,4 +1,4 @@
-# DeiT: Data-efficient Image Transformers
+# scalable transformers for neural machine translation
 
 This repository contains PyTorch evaluation code, training code and pretrained models for the following projects:
 * Scalable Transformer on DeiT (scalable transformers for neural machine translation) 
